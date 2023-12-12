@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "olayinka-akerekan",
   medium: "olayinkagaiusakerekan",
   twitter: "_data_alchemist",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
