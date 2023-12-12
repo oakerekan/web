@@ -36,10 +36,10 @@ const skillsList = [
   "AWS",
   "Microsoft Azure",
   "Google Cloud Platform",
-"Data Visualization",
-"Data Analysis",
-"Power BI",
-"Microsoft Excel"
+  "Data Visualization",
+  "Data Analysis",
+  "Power BI",
+  "Microsoft Excel"
 ];
 
 /**
